@@ -13,7 +13,9 @@ We didn't need to do much.  Just let people post things on the biggest community
 Hilights:
 
 [https://www.reddit.com/r/SeattleWA/comments/545q89/3000_subscribers/](https://www.reddit.com/r/SeattleWA/comments/545q89/3000_subscribers/)
+
 [https://www.reddit.com/r/SeattleWA/comments/54puyj/rseattlewa_is_trending/](https://www.reddit.com/r/SeattleWA/comments/54puyj/rseattlewa_is_trending/)
+
 [r/seattleWA wiki](https://www.reddit.com/r/SeattleWA/wiki/index#wiki_why_should_you_subscribe_to_r.2Fseattlewa.3F)
 
 [http://redditmetrics.com/r/SeattleWA](redditmetrics) (trending links)
