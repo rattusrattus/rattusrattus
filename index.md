@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-
-
-    <title>{{ site.title | default: site.github.repository_name }}</title>
-  </head>
-
   <body>
 
     <!-- HEADER -->
