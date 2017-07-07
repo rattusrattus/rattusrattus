@@ -16,7 +16,7 @@ https://www.reddit.com/r/SeattleWA/comments/54puyj/rseattlewa_is_trending/
 https://www.reddit.com/r/SeattleWA/wiki/index#wiki_why_should_you_subscribe_to_r.2Fseattlewa.3F
 http://redditmetrics.com/r/SeattleWA (trending links)
 
-Discord gave us a partner instance at discord.gg/seattle
+Discord gave us a partner instance at [discord.gg/seattle](https://discord.gg/seattle)
 
 It's been cool and it looks like people are starting to get this whole try to talk decently to each other and post cool stuff thing.  Remember that before everyone started getting all important and curating?
 
