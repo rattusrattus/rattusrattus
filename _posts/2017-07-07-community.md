@@ -16,7 +16,7 @@ Hilights:
 
 [https://www.reddit.com/r/SeattleWA/comments/54puyj/rseattlewa_is_trending/](https://www.reddit.com/r/SeattleWA/comments/54puyj/rseattlewa_is_trending/)
 
-[redditmetrics](https://redditmetrics.com/r/SeattleWA/)() trending links
+[redditmetrics](https://redditmetrics.com/r/SeattleWA/) trending links
 
 [r/seattleWA wiki](https://www.reddit.com/r/SeattleWA/wiki/index#wiki_why_should_you_subscribe_to_r.2Fseattlewa.3F)
 
