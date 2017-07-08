@@ -18,7 +18,7 @@ Hilights:
 
 [r/seattleWA wiki](https://www.reddit.com/r/SeattleWA/wiki/index#wiki_why_should_you_subscribe_to_r.2Fseattlewa.3F)
 
-[http://redditmetrics.com/r/SeattleWA](redditmetrics) (trending links)
+[http://redditmetrics.com/r/SeattleWA/](redditmetrics) (trending links)
 
 Discord gave us a partner instance at [discord.gg/seattle](https://discord.gg/seattle)
 
